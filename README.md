@@ -8,4 +8,4 @@
 ![image](https://github.com/meng-coke/-software-library/blob/master/img/gif.png)
 
 
-[软件地址]:https://github.com/meng-coke/-software-library/tree/master/gif%E7%94%9F%E6%88%90 "GIF软件"
+[软件地址](https://github.com/meng-coke/-software-library/tree/master/gif%E7%94%9F%E6%88%90)
